@@ -9,4 +9,3 @@ zhipuai
 faiss-cpu
 python-dotenv
 pypdf
-sqlite3
