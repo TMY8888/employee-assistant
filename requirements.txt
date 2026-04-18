@@ -9,3 +9,5 @@ zhipuai
 faiss-cpu
 python-dotenv
 pypdf
+fastapi
+uvicorn
