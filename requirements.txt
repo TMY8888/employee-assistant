@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+langchain-classic
+langgraph
+zhipuai
+faiss-cpu
+python-dotenv
+pypdf
+sqlite3
